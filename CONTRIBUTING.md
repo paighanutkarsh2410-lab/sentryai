@@ -5,7 +5,7 @@ Thank you for your interest in contributing to the AI-Powered DevOps Assistant!
 ## Getting Started
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/YOUR_USERNAME/devops-ai-assistant.git`
+2. Clone your fork: `git clone https://github.com/YOUR_USERNAME/sentryai.git`
 3. Create a branch: `git checkout -b feature/your-feature`
 4. Follow the [Developer Guide](docs/DEVELOPER.md) for local setup
 

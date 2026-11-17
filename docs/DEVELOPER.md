@@ -5,7 +5,7 @@
 ```bash
 # Clone
 git clone <repo-url>
-cd devops-ai-assistant
+cd sentryai
 
 # Infrastructure
 docker compose up -d  # PostgreSQL, Redis, Prometheus, Grafana
@@ -31,7 +31,7 @@ python src/orchestrator.py
 ## Project Structure
 
 ```
-devops-ai-assistant/
+sentryai/
 ├── frontend/                 # Next.js app
 │   ├── app/                  # Pages (dashboard, chat, predictions, etc.)
 │   ├── components/           # Reusable components

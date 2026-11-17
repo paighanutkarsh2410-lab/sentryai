@@ -154,7 +154,7 @@ JWT_SECRET=your_secret_here
 ## Project Structure
 
 ```
-devops-ai-assistant/
+sentryai/
 ├── frontend/          # Next.js dashboard (28+ sections)
 ├── backend/           # FastAPI REST API
 ├── agents/            # AI agent pipeline (8 agents)
